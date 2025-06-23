@@ -26,6 +26,9 @@ The dashboard provides a clean, professional interface for stock analysis with:
 - Historical data table
 - CSV export functionality
 
+<img width="881" alt="Screen1" src="https://github.com/user-attachments/assets/82031e63-c956-4752-910e-ea0255f6a6d8" />
+
+
 ## Installation
 
 1. Clone the repository:
